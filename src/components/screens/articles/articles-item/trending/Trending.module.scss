@@ -1,0 +1,14 @@
+@import '../../../../../assets/variables.scss';
+
+.trending {
+	h1 {
+		color: $black;
+		font-size: 24px;
+		font-weight: 700;
+		line-height: 130%;
+	}
+
+	.list-posts {
+		margin-top: 24px;
+	}
+}

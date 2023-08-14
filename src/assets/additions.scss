@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Victor+Mono:ital,wght@0,700;1,700&display=swap');
+
+@import './nullstyles.scss';
+@import './variables.scss';
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+.main__container {
+	max-width: 1220px;
+	margin: 0 auto;
+
+	@media (max-width: 2500px) {
+		& {
+			max-width: 1240px;
+		}
+	}
+
+	@media (max-width: 1300px) {
+		& {
+			max-width: 1140px;
+		}
+	}
+
+	@media (max-width: 1200px) {
+		& {
+			max-width: 960px;
+		}
+	}
+
+	@media (max-width: 1000px) {
+		& {
+			max-width: 720px;
+		}
+	}
+
+	@media (max-width: 760px) {
+		& {
+			max-width: 540px;
+		}
+	}
+
+	@media (max-width: 575px) {
+		& {
+			width: auto;
+			margin: 0 10px;
+		}
+	}
+}

@@ -1,0 +1,35 @@
+@import '../../../../assets/variables.scss';
+
+.form {
+	width: 420px;
+
+	.input-group {
+		display: flex;
+		align-items: center;
+
+		.btn {
+			width: 132px;
+			height: 44px;
+			border-radius: 0px 4px 4px 0px;
+			background-color: $violet;
+			border: none;
+			cursor: pointer;
+			transition: all 0.3s ease-in-out;
+			&:hover {
+				background-color: #5e5acc;
+			}
+
+			span {
+				color: $white;
+				font-size: 16px;
+				font-weight: 700;
+				letter-spacing: 0.5px;
+			}
+		}
+	}
+
+	.checkbox {
+		margin-top: 14px;
+		margin-left: 4px;
+	}
+}

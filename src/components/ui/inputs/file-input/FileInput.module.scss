@@ -1,0 +1,63 @@
+@import '../../../../assets/variables.scss';
+
+.file-input {
+	margin-top: 24px;
+
+	label {
+		margin-left: 5px;
+		display: block;
+		color: $dark-gray;
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 160%;
+	}
+
+	.file-input-container {
+		margin-top: 8px;
+		width: 285px;
+		position: relative;
+		display: inline-block;
+
+		input {
+			position: absolute;
+			opacity: 0;
+			display: block;
+			width: 285px;
+			height: 52px;
+		}
+	}
+
+	.file-input-text {
+		padding: 0 10px;
+		line-height: 40px;
+		text-align: left;
+		height: 52px;
+		display: block;
+		float: left;
+		box-sizing: border-box;
+		width: 173px;
+		border-radius: 6px 0px 0 6px;
+		border: 1px solid #d7dadd;
+		background-color: #f4f5f6;
+	}
+
+	.file-input-btn {
+		z-index: -1;
+		position: relative;
+		display: inline-block;
+		outline: none;
+		text-decoration: none;
+		font-size: 14px;
+		vertical-align: middle;
+		color: rgb(255 255 255);
+		text-align: center;
+		border-radius: 0 4px 4px 0;
+		background-color: #419152;
+		line-height: 22px;
+		height: 52px;
+		padding: 15px 20px;
+		box-sizing: border-box;
+		border: none;
+		margin: 0;
+	}
+}

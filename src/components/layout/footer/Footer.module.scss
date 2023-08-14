@@ -1,0 +1,25 @@
+@import '../../../assets/variables.scss';
+
+.footer {
+	width: 100%;
+	background-color: #292c37;
+	padding: 16px 0px;
+
+	.content {
+		display: flex;
+		gap: 4px;
+	}
+
+	p {
+		color: $white;
+		font-size: 16px;
+		font-weight: 500;
+		line-height: 150%;
+	}
+
+	.icon {
+		font-size: 20px;
+		color: $violet;
+		margin-top: 3px;
+	}
+}

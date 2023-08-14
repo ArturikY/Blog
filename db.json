@@ -1,0 +1,260 @@
+{
+  "trendingPosts": [
+    {
+      "id": 8,
+      "category": "Ad Tips",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_8.jpeg",
+        "name": "Sevach Ulkov",
+        "major": "Middle Python Developer"
+      },
+      "image": "/public/surprising-ways.jpg",
+      "title": "5 Surprising Ways to Combine Content Marketing with PPC",
+      "description": "Pharetra, ullamcorper iaculis viverra parturient sed id sed. Convallis proin dignissim lacus, purus gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 9,
+      "category": "SEO",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_9.jpeg",
+        "name": "Pavel Pavlovich",
+        "major": "Junior FullStack developer"
+      },
+      "image": "/public/blogimagetools.jpg",
+      "title": "Why SEO Is All About Content Marketing?",
+      "description": "Euismod congue faucibus diam etiam diam netus vitae ornare vitae. Cursus sollicitudin posuere venenatis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 10,
+      "category": "Ad Tips",
+      "date": "May 25, 2020",
+      "author": {
+        "image": "/public/author_10.jpeg",
+        "name": "Sevach Ulkov",
+        "major": "Middle Python Developer"
+      },
+      "image": "/public/small-business.png",
+      "title": "10 tips for a small business digital marketing strategy",
+      "description": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Posuere augue pellentesque mauris gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    }
+  ],
+  "companyPosts": [
+    {
+      "id": 11,
+      "category": "SEO",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_11.jpeg",
+        "name": "Diane Mccoy",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/your-maximize.png",
+      "title": "How to Maximize Your ROI Through Scientific SEM?",
+      "description": "Eu donec pellentesque et aliquet. Fringilla morbi etiam turpis nisl nunc, quis sagittis ut. Pulvinar amet vitae",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 12,
+      "category": "Marketing",
+      "date": "July 2, 2020",
+      "author": {
+        "image": "/public/author_12.png",
+        "name": "Diane Mccoy",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/blogging-search.png",
+      "title": "The Basics of Blogging Search Engine Optimization.",
+      "description": "Euismod congue faucibus diam etiam diam netus vitae ornare vitae. Cursus sollicitudin posuere venenatis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Marketing",
+      "date": "June 12, 2020",
+      "author": {
+        "image": "/public/author_2.jpeg",
+        "name": "Soham Alexander",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/marketing-game.jpeg",
+      "title": "Digital Marketing Game: What You Need to Know to Stay Ahead?",
+      "description": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Posuere augue pellentesque mauris gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 2,
+      "category": "Ad Tips",
+      "date": "June 6, 2020",
+      "author": {
+        "image": "/public/author_1.png",
+        "name": "Shawn Edwards",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/compare-social.jpeg",
+      "title": "How to Evaluate and Compare Social Media Tools Today.",
+      "description": "Eu donec pellentesque et aliquet. Fringilla morbi etiam turpis nisl nunc, quis sagittis ut. Pulvinar amet vitae",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 3,
+      "category": "SEO",
+      "date": "May 1, 2020",
+      "author": {
+        "image": "/public/author_3.jpeg",
+        "name": "Shawn Edwards",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/best-practices.jpeg",
+      "title": "The Best Practices to Optimize Your Website for Mobile.",
+      "description": "Pharetra, ullamcorper iaculis viverra parturient sed id sed. Convallis proin dignissim lacus, purus gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 4,
+      "category": "Paid Search",
+      "date": "April 25, 2020",
+      "author": {
+        "image": "/public/author_4.jpeg",
+        "name": "Diane Mccoy",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/blogging-search.png",
+      "title": "10 Seriously Underused Paid Search Strategies.",
+      "description": "Euismod congue faucibus diam etiam diam netus vitae ornare vitae. Cursus sollicitudin posuere venenatis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 5,
+      "category": "SEO",
+      "date": "June 3, 2020",
+      "author": {
+        "image": "/public/author_5.jpeg",
+        "name": "Shawn Edwards",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/gets-linked.jpeg",
+      "title": "How to Create Content That Gets Linked and Shared.",
+      "description": "Eu donec pellentesque et aliquet. Fringilla morbi etiam turpis nisl nunc, quis sagittis ut. Pulvinar amet vitae",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 6,
+      "category": "Ad Tips",
+      "date": "March 18, 2020",
+      "author": {
+        "image": "/public/author_6.jpeg",
+        "name": "Jane Cooper",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/effective-ad.jpeg",
+      "title": "12 Simple Tips to Creating an Effective Ad.",
+      "description": "Imperdiet risus consectetur dignissim lorem sollicitudin eget bibendum pellentesque nec. Adipiscing viverra in non euismod. Amet nulla aliquam nulla magna",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 7,
+      "category": "Ad Tips",
+      "date": "March 18, 2020",
+      "author": {
+        "image": "/public/author_7.jpeg",
+        "name": "Pag Pagination",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/pagination.jpeg",
+      "title": "The role of pagination  to day",
+      "description": "Imperdiet risus consectetur dignissim lorem sollicitudin eget bibendum pellentesque nec. Adipiscing viverra in non euismod. Amet nulla aliquam nulla magna",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 8,
+      "category": "Ad Tips",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_8.jpeg",
+        "name": "Sevach Ulkov",
+        "major": "Middle Python Developer"
+      },
+      "image": "/public/surprising-ways.jpg",
+      "title": "5 Surprising Ways to Combine Content Marketing with PPC",
+      "description": "Pharetra, ullamcorper iaculis viverra parturient sed id sed. Convallis proin dignissim lacus, purus gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 9,
+      "category": "SEO",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_9.jpeg",
+        "name": "Pavel Pavlovich",
+        "major": "Junior FullStack developer"
+      },
+      "image": "/public/blogimagetools.jpg",
+      "title": "Why SEO Is All About Content Marketing?",
+      "description": "Euismod congue faucibus diam etiam diam netus vitae ornare vitae. Cursus sollicitudin posuere venenatis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 10,
+      "category": "Ad Tips",
+      "date": "May 25, 2020",
+      "author": {
+        "image": "/public/author_10.jpeg",
+        "name": "Sevach Ulkov",
+        "major": "Middle Python Developer"
+      },
+      "image": "/public/small-business.png",
+      "title": "10 tips for a small business digital marketing strategy",
+      "description": "Nunc nulla vestibulum nunc quam arcu tristique convallis. Posuere augue pellentesque mauris gravida",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 11,
+      "category": "SEO",
+      "date": "July 5, 2020",
+      "author": {
+        "image": "/public/author_11.jpeg",
+        "name": "Diane Mccoy",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/your-maximize.png",
+      "title": "How to Maximize Your ROI Through Scientific SEM?",
+      "description": "Eu donec pellentesque et aliquet. Fringilla morbi etiam turpis nisl nunc, quis sagittis ut. Pulvinar amet vitae",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 12,
+      "category": "Marketing",
+      "date": "July 2, 2020",
+      "author": {
+        "image": "/public/author_12.png",
+        "name": "Diane Mccoy",
+        "major": "Lead Digital PR Strategist"
+      },
+      "image": "/public/blogging-search.png",
+      "title": "The Basics of Blogging Search Engine Optimization.",
+      "description": "Euismod congue faucibus diam etiam diam netus vitae ornare vitae. Cursus sollicitudin posuere venenatis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi modi distinctio tempore ratione nisi nemo ex ut culpa aliquam, et magnam consectetur velit delectus debitis perspiciatis soluta voluptas. Blanditiis tempora quibusdam illum, quo iste numquam mollitia consectetur possimus error tenetur fuga sed dolores nesciunt natus ab laborum? Reprehenderit accusantium ullam voluptas, perferendis excepturi nisi enim similique culpa omnis saepe mollitia possimus perspiciatis autem exercitationem, quidem libero praesentium id blanditiis, eos itaque illum necessitatibus dolores recusandae. Cumque officiis voluptas nobis voluptate deserunt eos molestiae tempore velit consequatur est facere laborum reiciendis esse dolore vel labore, optio quisquam dolorem! Soluta quas, voluptate at vero similique, molestias adipisci porro qui, id vitae quasi ex aspernatur illo accusamus eius dolorum reprehenderit corrupti beatae expedita rerum nemo? Illum voluptate aspernatur magnam nemo omnis, rem enim ad, veniam id, sequi totam porro. Laudantium consequatur rem beatae dolor soluta voluptates architecto reiciendis libero quae tempore debitis error cupiditate quam impedit, sint dolorum dolore explicabo delectus in iste. Sapiente vel velit officia nihil dignissimos laborum. Incidunt, fugiat, cum autem odio nulla dolorum vitae tempora nostrum ut eius laborum perspiciatis eos quos molestiae, molestias error pariatur. Nisi omnis, vel sunt odio doloremque officia reiciendis voluptatum quisquam exercitationem minus eligendi."
+    },
+    {
+      "id": 69660,
+      "category": "Development",
+      "date": "July 14, 2023",
+      "author": {
+        "image": "https://image.kazanexpress.ru/cdgc2n19ifffh1p1qt3g/original.jpg",
+        "name": "Eone Gus'",
+        "major": "Mon Tresor"
+      },
+      "image": "https://i.pinimg.com/originals/de/46/69/de466995c4b6fc6d1199be6a5808f10f.png",
+      "title": "Swift or Kotlin",
+      "description": "Swift or Kotlin for mobile Development?",
+      "content": "Initially, Kotlin was developed by a group of developers from Saint Petersburg, Russia, working at the company JetBrains. Kotlin was publicly unveiled in 2011. Kotlin runs on the JVM and is designed to interoperate seamlessly with Java, and is meant as a replacement for Java. Google announced official support for Kotlin as a development language for Android in 2017. Kotlin rolled out with Android Studio 3.0 in October 2017.\n\nIn this article, you will take a tour of Swift and Kotlin and how they compare. While there is no hands-on tutorial, reviewing these language elements will provide you a great overview that will expand your knowledge of both of these languages. This tutorial assumes you have a basic understanding of either Swift or Kotlin."
+    }
+  ]
+}

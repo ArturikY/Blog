@@ -1,0 +1,17 @@
+.articles-item {
+	width: 100%;
+	margin-top: 48px;
+
+	.content {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.left-side {
+		width: 810 / 1220 * 100%;
+	}
+
+	.right-side {
+		width: 342 / 1220 * 100%;
+	}
+}

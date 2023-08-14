@@ -1,0 +1,41 @@
+@import '../../../../../assets/variables.scss';
+
+.form {
+	h3 {
+		padding-top: 50px;
+		color: $black;
+		font-size: 30px;
+		font-weight: 900;
+		line-height: 130%;
+	}
+
+	.send {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 50px;
+		margin-bottom: 100px;
+
+		.checkbox {
+			width: 300px;
+		}
+
+		button {
+			width: 200px;
+			height: 52px;
+			background-color: $violet;
+			border-radius: 4px;
+			transition: all 0.3s ease-in-out;
+			&:hover {
+				background-color: #5e5acc;
+			}
+
+			span {
+				color: $white;
+				font-size: 16px;
+				font-weight: 700;
+				line-height: 52px;
+				letter-spacing: 0.5px;
+			}
+		}
+	}
+}

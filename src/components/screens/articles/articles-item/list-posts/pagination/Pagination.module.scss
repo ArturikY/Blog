@@ -1,0 +1,28 @@
+@import '../../../../../../assets/variables.scss';
+
+.pagination {
+	display: flex;
+	gap: 30px;
+
+	.btn {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+		color: $gray;
+		transition: color 0.3s ease-in-out;
+		&:hover {
+			color: $violet;
+		}
+
+		.icon {
+			font-size: 16px;
+			font-weight: 700;
+			margin-top: 3px;
+		}
+
+		p {
+			font-size: 16px;
+			font-weight: 700;
+		}
+	}
+}

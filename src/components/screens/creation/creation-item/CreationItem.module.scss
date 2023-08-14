@@ -1,0 +1,32 @@
+@import '../../../../assets/variables.scss';
+
+.creation-item {
+	width: 100%;
+	padding-top: 100px;
+
+	.content {
+		display: flex;
+		justify-content: space-between;
+
+		.left-side {
+			width: 49%;
+
+			h2 {
+				color: $black;
+				font-size: 46px;
+				font-weight: 900;
+				line-height: 130%;
+			}
+		}
+
+		.right-side {
+			width: 40%;
+		}
+	}
+
+	.image {
+		width: 450px;
+		height: 450px * 672.5 / 605;
+		margin-top: 200px;
+	}
+}

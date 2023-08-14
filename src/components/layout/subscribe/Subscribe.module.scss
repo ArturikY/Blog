@@ -1,0 +1,32 @@
+@import '../../../assets/variables.scss';
+
+.subscribe {
+	margin-top: 120px;
+	background-color: #f4f5f6;
+
+	.content {
+		padding-top: 56px;
+		padding-bottom: 88px;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.text {
+		padding-top: 44px;
+		width: 420px;
+
+		p {
+			color: $light-gray;
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 150%;
+			padding-top: 24px;
+			padding-bottom: 30px;
+		}
+	}
+
+	.image {
+		width: 564px;
+		height: 378px;
+	}
+}

@@ -1,0 +1,65 @@
+@import '../../../assets/variables.scss';
+
+.post {
+	width: 100%;
+	position: relative;
+
+	.image {
+		border-radius: 4px;
+	}
+
+	.head {
+		display: flex;
+		align-items: center;
+		gap: 12px;
+		height: 21px;
+		margin-top: 16px;
+
+		&_element {
+			display: flex;
+			align-items: center;
+			p {
+				color: $light-gray;
+				font-size: 14px;
+				font-weight: 400;
+				line-height: 150%;
+				margin-left: 8px;
+			}
+			&_logo {
+				color: $light-gray;
+				font-size: 16px;
+				padding-top: 3px;
+			}
+		}
+
+		hr {
+			margin: 0;
+			width: 1px;
+			height: 13px;
+			border: none;
+			background-color: $light-gray;
+		}
+	}
+
+	.title {
+		color: $black;
+		font-size: 20px;
+		font-weight: 700;
+		line-height: 150%;
+		margin-top: 8px;
+		margin-bottom: 8px;
+	}
+
+	.link {
+		display: inline;
+		color: $black;
+		font-size: 16px;
+		font-weight: 700;
+		line-height: 160%;
+		transition: all 0.3s ease-in-out;
+
+		&:hover {
+			color: $violet;
+		}
+	}
+}
